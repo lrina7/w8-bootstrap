@@ -3,7 +3,6 @@
   flex-direction: column;
   width: 95vw;
   height: 95vh;
-  border: 1px solid red;
 }
 .header {
   display: flex;
@@ -11,6 +10,7 @@
   justify-content: center;
   background: rgb(18, 18, 18);
   height: 5%;
+  margin-bottom: 1em;
 }
 .menu {
   display: flex;
@@ -37,7 +37,6 @@ nav ul li a {
   display: flex;
   justify-content: center;
   height: 85%;
-  border: 1px solid blue;
 }
 .row {
   width: 80%;
@@ -53,7 +52,4 @@ nav ul li a {
   font-size: 0.5em;
   font-weight: bold;
   color: white;
-}
-div {
-  border: 1px solid blue;
 }
